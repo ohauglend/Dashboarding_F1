@@ -68,11 +68,11 @@ fact that records of qualifying started later than races.
 
 <img align="center" img width="400" height="300" alt="image" src="https://user-images.githubusercontent.com/64472833/176758763-f47cf33b-e674-4f82-aa50-d85464e58f78.png">
 
-<img align="center" img width="400" height="300"alt="image" src="https://user-images.githubusercontent.com/64472833/176758829-7f0e055b-c500-4612-9979-68ee527cd33a.png">
+<img align="center" img width="400" height="300" alt="image" src="https://user-images.githubusercontent.com/64472833/176758829-7f0e055b-c500-4612-9979-68ee527cd33a.png">
 
 <img align="center" img width="400" height="300" alt="image" src="https://user-images.githubusercontent.com/64472833/176758884-6bf1fb39-1828-4d47-a92e-0049b0cc1f8f.png">
 
-<img align="center" img width="400" height="300"alt="image" src="https://user-images.githubusercontent.com/64472833/176758932-0f28b1b2-36f5-4536-a181-76b5d3e4745a.png">
+<img align="center" img width="400" height="300" alt="image" src="https://user-images.githubusercontent.com/64472833/176758932-0f28b1b2-36f5-4536-a181-76b5d3e4745a.png">
 
 <img align="center" img width="400" height="300" alt="image" src="https://user-images.githubusercontent.com/64472833/176758974-624d1a03-d101-43d7-9f59-e5d0b1b745ca.png">
 
